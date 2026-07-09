@@ -6,8 +6,8 @@
 
 **复制后直达目标 App 的 Android 链接跳转增强模块**
 
-[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.github.hyperisland?style=flat-square&logo=github&color=black)](https://github.com/1812z/HyperCopy/releases)
-![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.github.hyperisland/total?style=flat-square)
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.github.hypercopy?style=flat-square&logo=github&color=black)](https://github.com/1812z/HyperCopy/releases)
+![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.github.hypercopy/total?style=flat-square)
 [![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android)](https://android.com)
 [![LSPosed](https://img.shields.io/badge/Framework-LSPosed-blueviolet?style=flat-square)](https://github.com/LSPosed/LSPosed)
 [![Shizuku](https://img.shields.io/badge/Support-Shizuku-2196F3?style=flat-square)](https://shizuku.rikka.app/)
@@ -137,6 +137,6 @@ gradle assembleRelease
 
 Made with ❤️ for Android users
 
-[![Star History](https://img.shields.io/github/stars/Xposed-Modules-Repo/io.github.hyperisland?style=social)](https://github.com/Xposed-Modules-Repo/io.github.hyperisland)
+[![Star History](https://img.shields.io/github/stars/Xposed-Modules-Repo/io.github.hypercopy?style=social)](https://github.com/Xposed-Modules-Repo/io.github.hypercopy)
 
 </div>
